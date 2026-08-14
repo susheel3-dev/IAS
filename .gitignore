@@ -1,0 +1,10 @@
+project_plan.md
+__pycache__/
+*.pyc
+file_1mb.txt
+file_10kb.txt
+encrypted_1mb.bin
+encrypted_10kb.bin
+decrypted_1mb.txt
+decrypted_10kb.txt
+.env
